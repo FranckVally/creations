@@ -28,7 +28,7 @@ color: #181818;
 ul{
  list-style-type: none;
  text-align: left;
- font-size: 1,3em;
+ font-size:1.3em;
 list-style-position: outside;
   
 }
@@ -63,10 +63,9 @@ background-color: rgba(33,33,33 ,1)
 }
 .iconeloisir
 {
-position: absolute;
-bottom: 0px;
-margin-left: 33%;
 
+margin-top: 20px;
+margin-bottom: 20px;
 
 }
 
@@ -94,8 +93,8 @@ background-color: rgba(33,33,33 ,1)
     width:200px;
     border-radius:50%; 
     padding : center;
-    padding-top: 10px; 
-    padding-bottom: 10px;
+    margin: 20px;
+        
 }
 
 .hauteur
