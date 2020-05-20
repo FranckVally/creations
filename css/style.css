@@ -29,6 +29,7 @@ ul
 {
  list-style-type: none;
  font-size:1.3em;
+ padding: 5px;
 
 }
 li
@@ -105,7 +106,7 @@ color: rgba(255,111,0 ,1);
 }
 .couleurtexte
 {
-    color: rgba(255,111,0 ,1);
+    color: rgb(0, 0, 0);
 }
 /* rond autour de la photo */ 
 .rondavatar {
@@ -131,17 +132,17 @@ color: rgba(255,111,0 ,1);
 .fa-graduation-cap
     {
         color: rgba(255,111,0 ,1);
-        font-size:2em;    
+        font-size:1.5em;    
     }
 .fa-briefcase
 {
     color: rgba(255,111,0 ,1);
-    font-size:2em;    
+    font-size:1.8em;    
 }
 .fa-pen-fancy
 {
     color: rgba(255,111,0 ,1);
-    font-size:2em;    
+    font-size:1.8em;    
 }    
 .iconeadroite
     {
@@ -155,6 +156,7 @@ color: rgba(255,111,0 ,1);
 {
  border-bottom : 2px solid rgba(255,111,0 ,1);   
 }
+
 
 @media screen and (max-width: 767px){
     h1{
@@ -209,7 +211,7 @@ color: rgba(255,111,0 ,1);
     } 
 .loisir
     {
-    margin-top: 400px;
+    margin-top: 100px;
     }
 ul
     {
